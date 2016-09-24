@@ -1,4 +1,4 @@
-# ======= HackGT_2016_Delta_Mobile_App =======
+# ========= HackGT_2016_Delta_Mobile_App =========
 
 # *Team Cooporation Credits:
 #   - Hung Do
